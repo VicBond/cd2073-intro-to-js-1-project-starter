@@ -39,6 +39,8 @@ const strawberry = {
    - strawberry.jpg by Allec Gomes
 */
 
+
+products.push(cherry, orange, strawberry); //Add the products to the products array
 /* Declare an empty array named cart to hold the items in the cart */
 
 /* Create a function named addProductToCart that takes in the product productId as an argument
