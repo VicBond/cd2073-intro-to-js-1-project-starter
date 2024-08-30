@@ -41,7 +41,9 @@ const strawberry = {
 
 
 products.push(cherry, orange, strawberry); //Add the products to the products array
+
 /* Declare an empty array named cart to hold the items in the cart */
+const cart = []; //cart array to hold the items in the cart
 
 /* Create a function named addProductToCart that takes in the product productId as an argument
   - addProductToCart should get the correct product based on the productId
