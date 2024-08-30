@@ -9,6 +9,29 @@ const products = []; // create an array
    - productId: unique id for the product (number)
    - image: picture of product (url string)
 */
+const cherry = {
+  name: 'Cherry',
+  price: 2.00,
+  quantity: 10,
+  productId: 1,
+  image: 'images/cherry.jpg',
+};
+
+const orange = {
+  name: 'Orange',
+  price: 1.50,
+  quantity: 5,
+  productId: 2,
+  image: 'images/orange.jpg',
+};
+
+const strawberry = {
+  name: 'Strawberry',
+  price: 3.00,
+  quantity: 15,
+  productId: 3,
+  image: 'images/strawberry.jpg',
+};
 
 /* Images provided in /images folder. All images from Unsplash.com
    - cherry.jpg by Mae Mu
